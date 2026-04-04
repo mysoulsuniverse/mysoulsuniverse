@@ -5,6 +5,7 @@ import Section2 from './Section2'
 import ClientsSection from './ClientsSection'
 import CTA from './CTA'
 import Footer from './Footer'
+import CorePillars from '../About/CorePillars'
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
         <Hero />
         <Section1 />
         <Section2 />
+        <CorePillars />
         <ClientsSection />
         <CTA />
         

@@ -16,7 +16,8 @@ function App() {
 
   return (
     <div>
-      <LinkAnnouncement />
+      {/* <LinkAnnouncement  /> */}
+      
 
       <Navbar />
       
