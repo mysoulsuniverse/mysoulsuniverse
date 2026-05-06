@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "/err-x9d2",
-      "permanent": false
-    }
-  ]
-}
