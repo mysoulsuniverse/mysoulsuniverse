@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "/this-site-is-temporarily-offline",
+      "destination": "/err-x9d2",
       "permanent": false
     }
   ]
