@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "/this-site-is-temporarily-offline",
+      "permanent": false
+    }
+  ]
+}
